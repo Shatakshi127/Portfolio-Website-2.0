@@ -1,4 +1,6 @@
-# Getting Started with Create React App  [CURRENTLY DOWN FOR MAINTENANCE]
+# Getting Started with Create React App  
+
+[CURRENTLY DOWN FOR MAINTENANCE]
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6063eac1-d37d-4373-bfb8-8d48716febff/deploy-status)](https://app.netlify.com/sites/utkarshdev/deploys)
 
